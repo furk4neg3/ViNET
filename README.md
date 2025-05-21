@@ -22,7 +22,10 @@ ViNET is an offline, real-time object detection and depth estimation iOS app des
 
   * Maintains \~30 FPS preview while keeping CPU usage below 70%
 
+**Note:** The SPMP, SRS, SDD, and STD documents were originally written in Turkish. I’ve added machine-translated versions (via DeepL) to this repo, so some diagrams remain in Turkish and certain abbreviations may be unclear in English. Full English revisions are coming soon.
+
 ---
+
 
 ## Installation
 
